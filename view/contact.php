@@ -13,7 +13,8 @@
                 color:red;
             }
             .top-main{
-                padding-top:90px;
+                padding-top:100px;
+
             }
             @media screen and (max-width: 800px){
                 .top-main{
