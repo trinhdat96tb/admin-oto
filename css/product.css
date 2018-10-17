@@ -1,0 +1,43 @@
+/* Set gray background color and 100% height */
+.sidenav {
+    background-color: #f1f1f1;
+    height: 100%;
+    padding-top:30px;
+}
+            
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+.col-sm-6{
+    text-align:center;
+}
+.price{
+    color:#C71444;
+}
+.name{
+    font-weight:700;
+    color:#C71444
+}
+.item_foot{
+    text-align:right;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.item_foot a{
+    border:1px solid gray;
+    padding:8px;
+    margin:3px;
+}
+            
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {height: auto;} 
+}
+        
