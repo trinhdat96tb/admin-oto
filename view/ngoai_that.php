@@ -25,7 +25,7 @@
         <div class="wrapper">
             <div class="container">
                 <div style="padding-top:120px">
-                    <h2>Chi tiết sản phẩm</h2>
+                    <h2>Ngoại thất</h2>
                     <form>
                         <div class="row">
                             <div class="form-group col-sm-6">

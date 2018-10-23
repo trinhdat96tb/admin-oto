@@ -55,35 +55,35 @@
                                     <td>Trịnh</td>
                                     <td>0886567096</td>
                                     <td>chaydan9xtb@gmail.com</td>
-                                    <td>đăng ký lái thử</td>
+                                    <td>liên hệ lại để tư vấn giúp tôi</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
                                     <td>Công</td>
                                     <td>0886567096</td>
                                     <td>trinhdat96tb@gmail.com</td>
-                                    <td>đăng ký lái thử</td>
+                                    <td>liên hệ lại để tư vấn giúp tôi</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
                                     <td>Đạt</td>
                                     <td>0886567096</td>
                                     <td>congdat.trinh@tanchonggroup.com</td>
-                                    <td>đăng ký lái thử</td>
+                                    <td>liên hệ lại để tư vấn giúp tôi</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
                                     <td>Bùi</td>
                                     <td>0886567096</td>
                                     <td>buiminh@gmail.com</td>
-                                    <td>đăng ký lái thử</td>
+                                    <td>liên hệ lại để tư vấn giúp tôi</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>Minh</td>
                                     <td>0886567096</td>
                                     <td>minhsml@gmail.com</td>
-                                    <td>đăng ký lái thử</td>
+                                    <td>liên hệ lại để tư vấn giúp tôi</td>
                                 </tr>
                             </tbody>
                         </table>

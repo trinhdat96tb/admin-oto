@@ -77,26 +77,9 @@
                                         <p>Bên cạnh việc mang đến những sản phẩm tiên phong về công nghệ thì Nissan Việt Nam cũng không ngừng nỗ lực để đáp ứng tốt nhất các nhu cầu của khách hàng về dịch vụ trước và sau bán hàng. Hội thi tay nghề Kỹ thuật viên Nissan xuất sắc chính là cơ hội để các kỹ thuật viên được cọ xát trau dồi kiến thức chuyên môn lẫn kỹ năng thực hành, nâng cao chất lượng dịch vụ, đồng thời chuẩn hóa tiêu chuẩn toàn cầu cho kỹ thuật viên trên toàn bộ hệ thống Nissan 3S tại Việt Nam.</p>
                                         <p>Đặc biệt, đây là sự kiện nằm trong khuân khổ Hội thi tay nghề kỹ thuật viên xuất sắc toàn cầu (NISTEC) được tổ chức tại Thái Lan và Nhật Bản. Chính vì vậy, các kỹ thuật viên xuất sắc được lựa chọn trong hội thi sẽ là những hạt giống tốt để tiếp tục được đào tạo và đại diện cho Việt Nam tham dự các sân chơi lớn trên trường quốc tế.</p>
                                     </td>
-                                    <td>
-                                        <button type="button" data-toggle="modal" data-target="#myModal">Edit</button>
-                                        <button id="btn_delete" onclick="deleteSlide();">Delete</button>
-                                        <!-- modal -->
-                                        <div class="modal fade" id="myModal" role="dialog">
-                                            <div class="modal-dialog">
-                                                <div class="modal-content">
-                                                    <div class="modal-header">
-                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                        <h4 class="modal-title">Modal Header</h4>
-                                                    </div>
-                                                    <div class="modal-body">
-                                                        Some text in the modal.</p>
-                                                    </div>
-                                                    <div class="modal-footer">
-                                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <td style="text-align:center">
+                                        <button>Edit</button>
+                                        <button style="margin-top:5px">Delete</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -107,9 +90,9 @@
                                         <p>Bên cạnh việc mang đến những sản phẩm tiên phong về công nghệ thì Nissan Việt Nam cũng không ngừng nỗ lực để đáp ứng tốt nhất các nhu cầu của khách hàng về dịch vụ trước và sau bán hàng. Hội thi tay nghề Kỹ thuật viên Nissan xuất sắc chính là cơ hội để các kỹ thuật viên được cọ xát trau dồi kiến thức chuyên môn lẫn kỹ năng thực hành, nâng cao chất lượng dịch vụ, đồng thời chuẩn hóa tiêu chuẩn toàn cầu cho kỹ thuật viên trên toàn bộ hệ thống Nissan 3S tại Việt Nam.</p>
                                         <p>Đặc biệt, đây là sự kiện nằm trong khuân khổ Hội thi tay nghề kỹ thuật viên xuất sắc toàn cầu (NISTEC) được tổ chức tại Thái Lan và Nhật Bản. Chính vì vậy, các kỹ thuật viên xuất sắc được lựa chọn trong hội thi sẽ là những hạt giống tốt để tiếp tục được đào tạo và đại diện cho Việt Nam tham dự các sân chơi lớn trên trường quốc tế.</p>
                                     </td>
-                                    <td>
-                                        <button id="btn_edit">Edit</button>
-                                        <button id="btn_delete" onclick="deleteSlide();">Delete</button>
+                                    <td style="text-align:center">
+                                        <button>Edit</button>
+                                        <button style="margin-top:5px">Delete</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -120,9 +103,9 @@
                                         <p>Bên cạnh việc mang đến những sản phẩm tiên phong về công nghệ thì Nissan Việt Nam cũng không ngừng nỗ lực để đáp ứng tốt nhất các nhu cầu của khách hàng về dịch vụ trước và sau bán hàng. Hội thi tay nghề Kỹ thuật viên Nissan xuất sắc chính là cơ hội để các kỹ thuật viên được cọ xát trau dồi kiến thức chuyên môn lẫn kỹ năng thực hành, nâng cao chất lượng dịch vụ, đồng thời chuẩn hóa tiêu chuẩn toàn cầu cho kỹ thuật viên trên toàn bộ hệ thống Nissan 3S tại Việt Nam.</p>
                                         <p>Đặc biệt, đây là sự kiện nằm trong khuân khổ Hội thi tay nghề kỹ thuật viên xuất sắc toàn cầu (NISTEC) được tổ chức tại Thái Lan và Nhật Bản. Chính vì vậy, các kỹ thuật viên xuất sắc được lựa chọn trong hội thi sẽ là những hạt giống tốt để tiếp tục được đào tạo và đại diện cho Việt Nam tham dự các sân chơi lớn trên trường quốc tế.</p>
                                     </td>
-                                    <td>
-                                        <button id="btn_edit">Edit</button>
-                                        <button id="btn_delete" onclick="deleteSlide();">Delete</button>
+                                    <td style="text-align:center">
+                                        <button>Edit</button>
+                                        <button style="margin-top:5px">Delete</button>
                                     </td>
                                 </tr>
                             </tbody>

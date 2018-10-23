@@ -34,7 +34,7 @@
 .head-index{
     border-bottom:2px groove;
 }
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1200px){
     .navbar-brand .logo{
         display: none;
     }

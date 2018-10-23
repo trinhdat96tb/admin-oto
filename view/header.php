@@ -42,10 +42,11 @@
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding-top:40px">
                             <ul class="nav navbar-nav main-menu">
-                                <li><a href="index.php" style="color:black">SLIDER</a></li>
+                                <li><a href="index.php" style="color:black">SLIDE</a></li>
                                 <li><a href="video.php" style="color:black">VIDEO</a></li>
+                                <li><a href="test-driver.php" style="color:black">DS ĐK LÁI THỬ</a></li>
                                 <li><a href="product.php" style="color:black">SẢN PHẨM</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
